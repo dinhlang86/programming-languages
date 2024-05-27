@@ -16,5 +16,9 @@ The intended audience may include technical managers
 - Job seekers from the non-related programming area who want to change their career path;
 - Developers who keep up with the new trend or get pursue better career prospects in new positions.
 
+## Technologies:
+- Python & R programming languages
+- Tableau
+
 ## Result:
 Full report can be found [here](./report.pdf)
